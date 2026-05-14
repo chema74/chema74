@@ -25,8 +25,6 @@
 
 Diseño y desarrollo **agentes de inteligencia artificial aplicada** orientados a negocio real: análisis de riesgo país, gestión documental con RAG (*Retrieval-Augmented Generation – Generación Aumentada por Recuperación*), automatización operativa para PYMEs y sistemas de cumplimiento y auditoría asistidos por IA.
 
-Mi trabajo combina rigor técnico con experiencia docente de máster y consultoría TIC desde 2016.
-
 ---
 
 ## Stack principal
