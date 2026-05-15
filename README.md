@@ -43,15 +43,15 @@ Diseño y desarrollo **agentes de inteligencia artificial aplicada** orientados 
 
 ## Repositorios principales
 
-### 🤖 [agentes-ia-pymes](https://github.com/chema74/agentes-ia-pymes)
+### [agentes-ia-pymes](https://github.com/chema74/agentes-ia-pymes)
 Portfolio técnico con 10 agentes locales para PYMEs. Arquitectura modular, 135+ tests, CI activa, demo reproducible sin dependencias externas.
 `Python` · `local-first` · `V1 cerrada, V2 en curso`
 
-### 🧠 [Agentes_IA](https://github.com/chema74/Agentes_IA)
+### [Agentes_IA](https://github.com/chema74/Agentes_IA)
 Monorepo principal: 10 proyectos de portfolio + 9 agentes de producto. Inteligencia comercial internacional, RAG documental, cumplimiento contractual, auditoría, geopolítica aplicada.
 `Python 94%` · `Groq` · `CI` · `CATÁLOGO.md`
 
-### 🌐 [chema74.github.io](https://github.com/chema74/chema74.github.io)
+### [chema74.github.io](https://github.com/chema74/chema74.github.io)
 Web pública del portfolio técnico.
 `HTML/CSS` · `GitHub Pages` · `chema74.github.io`
 
