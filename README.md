@@ -1,7 +1,7 @@
 <!-- TXEMA RÍOS — README de perfil GitHub -->
 <!-- Repositorio: chema74/chema74 → archivo README.md en la raíz -->
 
-<h1 align="center">Txema Ríos</h1>
+<h1 align="center">José María Tinajero Ríos</h1>
 <p align="center">
   <strong>Especialista TIC · Agentes de IA aplicada · Docente de máster · Consultor</strong><br/>
   Sevilla, España
